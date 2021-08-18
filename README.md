@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# a clone of a website hulu page using react react-modal and css3 with flex and Grid system its all responsive
+![Capture d’écran 2021-08-17 161941](https://user-images.githubusercontent.com/73104268/129796040-0b299f57-4253-4ef0-9395-509c34c30ed3.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
