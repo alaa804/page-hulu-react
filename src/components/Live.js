@@ -1,4 +1,4 @@
-import React,{Fragment} from 'react';
+import React,{ Fragment } from 'react';
 
 const Live = () => {
     return (
@@ -10,6 +10,7 @@ const Live = () => {
             <div className='sub-text'>Make the switch from cable. Get 75+ top channels with your favorite live sports, news, and events - plus the entire Hulu streaming library.</div>
             <div className='legal-text'>Live TV plan required. Regional restrictions, blackouts and additional terms apply. See details</div>
             <a href='#!'>View Channels In Your Area →</a>
+            <i class="fas fa-chevron-down"></i>
         </div>
       </section>
     </Fragment>
